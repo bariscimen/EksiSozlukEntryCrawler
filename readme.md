@@ -10,4 +10,5 @@
 
 Bu uygulama veri bilimine meraklı kişilerin Ekşisözlük'ten kolayca veriseti elde edebilmesi amacıyla yazılmıştır. Lütfen amacı dışında kullanmayınız.
 
-Derlenmiş versiyonu indirmek için tıklayınız.
+Uygulamayı Java SE Runtime Environment ile çalıştırabilirsiniz.
+Derlenmiş versiyonu indirmek için [buraya tıklayınız.](https://github.com/bariscimen/EksiSozlukEntryCrawler/releases/download/v0.1/EksiSozlukEntryCrawler.jar)
