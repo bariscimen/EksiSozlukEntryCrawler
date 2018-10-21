@@ -211,7 +211,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Ekşisözlük İndir v0.1 -- https://github.com/bariscimen/JEksiSozlukCrawler");
+        JFrame frame = new JFrame("Ekşisözlük Başlık İndir v0.1 -- https://github.com/bariscimen/EksiSozlukEntryCrawler");
         frame.setContentPane(new App().panel1);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
